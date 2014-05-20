@@ -36,7 +36,7 @@
 .table-btl{border-top-left-radius: 5px;}
 .table-btr{border-top-right-radius: 5px;}
 .table-bor-rig{border-right: 2px solid #edf1f5; text-align:center;}
-.table-bor-lef{border-left: 2px solid #edf1f5; text-align:center;}
+.table-bor-lef{border-left: 2px solid #edf1f5; text-align:center; width:52px !important;}
 .active-th{font-weight:bold;}
 .pagination-ta{text-align:center;}
 .active-rounded{border-radius:50%}
